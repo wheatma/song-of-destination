@@ -14,6 +14,7 @@ Every mountain, every river deserves a song 🎵.
 | CN 🇨🇳 | Beijing | 北京 | One Night In 北京 |
 | CN 🇨🇳 | Chengdu | 成都 | 成都 |
 | CN 🇨🇳 | Hefei | 合肥 | 庐州月 |
+| CN 🇨🇳 | Nanjing | 南京 | 你离开了南京，从此没有人和我说话 |
 | CN 🇨🇳 | The Yellow River | 黄河 | 保卫黄河 |
 | CN 🇨🇳 | Mudan River | 牡丹江 | 牡丹江 |
 | CN 🇨🇳 | Shanghai | 上海 | 上海滩 |
