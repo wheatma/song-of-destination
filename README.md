@@ -37,6 +37,8 @@ Every mountain, every river deserves a song 🎵.
 | JP 🇯🇵 | Shinjuku | 新宿 | 再见二丁目 |
 | MA 🇲🇦 | Casablanca | 卡萨布兰卡 | CASABLANCA (卡萨布兰卡) |
 | MAC 🇲🇴 | Macau | 澳门 | 七子之歌澳门 |
+| Moon 🌛 | Moon | 月亮 | Moon River |
+| Moon 🌛 | Moon | 月球 | Fly Me To The Moon |
 | NO 🇳🇴 | Norway | 挪威 | 挪威的森林 |
 | RU 🇷🇺 | Moscow | 莫斯科 | 莫斯科没有眼泪 |
 | Taiwan | Taipei | 台北 | 冬季到台北来看雨 |
@@ -45,5 +47,4 @@ Every mountain, every river deserves a song 🎵.
 | TR 🇹🇷 | Turkey | 土耳其 | 蓝色土耳其 |
 | UK 🇬🇧 | North Yorkshire | 英格兰北约克郡 | Scarborough Fair (斯卡布罗集市) |
 | USA 🇺🇸 | California | 加利福尼亚 | Hotel California (加州旅馆) |
-| Moon 🌛 | Moon | 月亮 | Moon River |
 
