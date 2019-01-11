@@ -14,6 +14,7 @@ Every mountain, every river deserves a song 🎵.
 | CN 🇨🇳 | Beijing | 北京 | One Night In 北京 |
 | CN 🇨🇳 | Chengdu | 成都 | 成都 |
 | CN 🇨🇳 | Hefei | 合肥 | 庐州月 |
+| CN 🇨🇳 | The Yellow River | 黄河 | 保卫黄河 |
 | CN 🇨🇳 | Mudan River | 牡丹江 | 牡丹江 |
 | CN 🇨🇳 | Shanghai | 上海 | 上海滩 |
 | CN 🇨🇳 | Zhengzhou | 郑州 | 关于郑州的记忆 |
@@ -34,6 +35,7 @@ Every mountain, every river deserves a song 🎵.
 | JP 🇯🇵 | Mount Fuji | 富士山 | 富士山下 |
 | JP 🇯🇵 | Shinjuku | 新宿 | 再见二丁目 |
 | MA 🇲🇦 | Casablanca | 卡萨布兰卡 | CASABLANCA (卡萨布兰卡) |
+| MAC 🇲🇴 | Macau | 澳门 | 七子之歌澳门 |
 | NO 🇳🇴 | Norway | 挪威 | 挪威的森林 |
 | RU 🇷🇺 | Moscow | 莫斯科 | 莫斯科没有眼泪 |
 | Taiwan | Taipei | 台北 | 冬季到台北来看雨 |
