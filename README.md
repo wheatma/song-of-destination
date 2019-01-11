@@ -23,7 +23,7 @@ Every mountain, every river deserves a song 🎵.
 | EG 🇪🇬 | Egypt | 埃及 | 出埃及记 |
 | ES 🇪🇸 | Madrid | 马德里 | 马德里不思议 |
 | ES 🇪🇸 | Sevilla | 塞维利亚 | 塞维利亚黄昏 |
-| Europe | Danube | 多瑙河 | An der schönen blauen Donau (蓝色多瑙河) |
+| Europe 🇪🇺 | Danube | 多瑙河 | An der schönen blauen Donau (蓝色多瑙河) |
 | FR 🇫🇷 | Normandy | 诺曼底 | 爱情诺曼底 |
 | GR 🇬🇷 | Greece | 希腊  | 许愿池的希腊少女 |
 | HK 🇭🇰 | Hong Kong | 香港 | 东方之珠 |
