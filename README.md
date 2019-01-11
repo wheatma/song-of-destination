@@ -24,6 +24,7 @@ Every mountain, every river deserves a song 🎵.
 | Europe | Danube | 多瑙河 | An der schönen blauen Donau (蓝色多瑙河) |
 | FR 🇫🇷 | Normandy | 诺曼底 | 爱情诺曼底 |
 | GR 🇬🇷 | Greece | 希腊  | 许愿池的希腊少女 |
+| HK 🇭🇰 | Hong Kong | 香港 | 东方之珠 |
 | HK 🇭🇰 | Queen's Road | 皇后大道 | 皇后大道东 |
 | HK 🇭🇰 | Tin Hau Station | 天后站 | 下一站天后 |
 | IE 🇮🇪 | Ireland | 爱尔兰 | Ireland |
