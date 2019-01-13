@@ -10,6 +10,7 @@ Every mountain, every river deserves a song 🎵.
 
 | Country / Region | Destination | Chinese Name | Song Name |
 | :------ | :------| :------ | :------ |
+| Argentina 🇦🇷 | Argentina | 阿根廷 | Don't Cry For Me Argentina |
 | CN 🇨🇳 | Beijing | 北京 | 北京欢迎你 |
 | CN 🇨🇳 | Beijing | 北京 | One Night In 北京 |
 | CN 🇨🇳 | Chengdu | 成都 | 成都 |
