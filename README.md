@@ -31,6 +31,7 @@ Every mountain, every river deserves a song 🎵.
 | HK 🇭🇰 | Queen's Road | 皇后大道 | 皇后大道东 |
 | HK 🇭🇰 | Tin Hau Station | 天后站 | 下一站天后 |
 | IE 🇮🇪 | Ireland | 爱尔兰 | Ireland |
+| IS 🇮🇸 | Reykjavik | 雷克雅未克 | 雷克雅未克 |
 | IT 🇮🇹 | Milan | 米兰 | 米兰的小铁匠 |
 | IT 🇮🇹 | Venice | 威尼斯 | 威尼斯的泪 |
 | JP 🇯🇵 | Hiroshima | 广岛 | 广岛之恋 |
